@@ -31,6 +31,10 @@ public class HolaMundo {
         int resultado3 = a / b;
 
         System.out.println("la division entre a y b es :" + resultado3);
+
+        int resultado4 = a * b;
+        
+        System.out.println("la multiplicacion de a y b es " + resultado4);
     }
 
 }
