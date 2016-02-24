@@ -17,6 +17,12 @@ public class HolaMundo {
     public static void main(String[] args) {
        
         System.out.println("Hola Mundo");
+        
+        int a =5 ;
+        int b = 10 ;
+        int  resultado = a + b ;
+        
+        System.out.println("la suma entre a y b es :"+ resultado);
     }
     
 }
