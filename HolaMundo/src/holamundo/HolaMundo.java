@@ -27,6 +27,10 @@ public class HolaMundo {
         int resultado2 = a - b;
 
         System.out.println("la resta de a y b es :" + resultado2);
+
+        int resultado3 = a / b;
+
+        System.out.println("la division entre a y b es :" + resultado3);
     }
 
 }
